@@ -1,0 +1,16 @@
+{
+	"name": "blackengine",
+	"version-string": "0.0.1",
+	"builtin-baseline": "d052cd6113dbbede9ebc615f1aca5be112a78420",
+	"dependencies": [
+		"glfw3",
+		"fmt",
+		"glm",
+		"asio",
+		"openal-soft",
+		"eastl",
+		"glad",
+		"lua"
+
+	]
+}
