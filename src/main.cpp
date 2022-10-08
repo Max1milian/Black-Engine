@@ -4,5 +4,6 @@
 int main(void)
 {
 	fmt::print("Testprint\n");
+	fmt::print("UnU\n");
 	return 0;
 }
