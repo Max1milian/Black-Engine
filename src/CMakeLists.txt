@@ -1,0 +1,8 @@
+add_subdirectory(audio)
+add_subdirectory(lightning)
+add_subdirectory(lua)
+add_subdirectory(meshes)
+add_subdirectory(network)
+add_subdirectory(renderer_opengl)
+add_subdirectory(renderer_vulkan)
+add_subdirectory(window)
